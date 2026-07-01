@@ -170,8 +170,6 @@ Don't forget to add your name to **CONTRIBUTORS.md** before creating your Pull R
 
 # 💡 Beginner?
 
-Don't worry!
-
 This repository is beginner-friendly.
 
 If this is your **first Pull Request**, we'll help you throughout the process.
@@ -189,5 +187,11 @@ If you find this repository helpful:
 🤝 Contribute
 
 📢 Share it with your friends
+
+## 📬 Connect
+- **GitHub:** [hassan-ahmed90](https://github.com/hassan-ahmed90)
+- **LinkedIn:** [Hassan Ahmed](https://www.linkedin.com/in/hassan-ahmed-5585a737b/)
+- **Email:** hassanahmedrajput@gmail.com
+ 
 
 Let's build an amazing open-source AI community together! 🚀
