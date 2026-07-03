@@ -10,10 +10,9 @@ print(f"after swapping: {a , b}")
 #name = input("what's your name?")
 #print(f"Hi, nice to meet you {name}")
 
-#  Q3. Write a program to check if a number is even or odd.
-
-# num = int(input("tell me any number and i'll tell you back if it's odd or even: "))
-# if num %2 == 0:
+#  Q3. Write a program to check if a number 
 #     print(f'{num} is even')
 # else:
 #  print(f'{num} is odd')
+
+print("")
