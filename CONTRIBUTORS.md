@@ -8,7 +8,7 @@ Add your details using the following format:
 
 #### 2) Name: Sindhu Dahani
 
-- Place: Jamshoro, Sindh, Pakistan
-- Bio: AI Engineer
+- Place: Jamshoro, Sindh
+- Bio: AI Engineer 
 - GitHub: https://github.com/SindhuDahani
 
