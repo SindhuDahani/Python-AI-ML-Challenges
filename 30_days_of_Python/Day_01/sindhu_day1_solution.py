@@ -19,3 +19,6 @@ if number %2 == 0:  #Check if the number is divisible by 2
     print(number,"number is an even") #print number is even,If the remainder is 0,
 else:
     print(number,"number is an odd") #else print number is odd 
+# Q1. Write a Python program to swap two variables. 
+# Q2. Take user input and display it back to the user. 
+# Q3. Write a program to check if a number is even or odd.

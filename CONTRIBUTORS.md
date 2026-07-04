@@ -12,3 +12,20 @@ Add your details using the following format:
 - Bio: AI Engineer 
 - GitHub: https://github.com/SindhuDahani
 
+#### 3) Name: Aqsa Zubair
+- Place: Jamshoro, Sindh, Pakistan
+- Bio: AI Engineer
+- GitHub: https://github.com/Aqsazubair24
+
+#### 4) Name: Fiza Dahani
+
+- Place: Jamshoro, Sindh, Pakistan
+- Bio: AI Engineer
+- GitHub: https://github.com/Fiza-110
+
+
+#### 5) Name: Zulekha Korejo
+
+- Place: Jamshoro, Sindh, Pakistan
+- Bio: AI Engineer
+- GitHub: 
